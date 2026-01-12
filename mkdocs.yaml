@@ -1,0 +1,20 @@
+site_name: EuroPython Teams Description
+
+nav:
+  - Introduction: index.md
+  - Operations: operations.md
+  - Programme: programme.md
+  - Sponsors: sponsors.md
+  - Financial Aid: financial-aid.md
+  - Communication: communication.md
+  - Design: design.md
+  - Accessibility: accessibility.md
+  - Sprints: sprints.md
+  - Speaker Mentorship: mentorship.md
+
+theme:
+  name: material
+
+markdown_extensions:
+  - pymdownx.tasklist:
+      custom_checkbox: true
